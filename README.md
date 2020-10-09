@@ -11,5 +11,3 @@ Martin Leblanc (iconfinder.com) said something recently about UI that sums it up
 Credits to Aldrin ong
 ## Flutter
 Credits to Owen Gozali
-
-# tmdb-declarative-ui
